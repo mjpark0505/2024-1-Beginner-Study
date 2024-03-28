@@ -24,5 +24,5 @@ Rebase and Merge
 -A, B, C 커밋의 base를 재설정
 -모두 새로운 커밋으로 변경
 
-
+<https://github.com/mjpark0505/2024-1-Beginner-Study/pull/2>
 
