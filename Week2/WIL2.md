@@ -25,4 +25,4 @@ Rebase and Merge
 -모두 새로운 커밋으로 변경
 
 
-<https://github.com/mjpark0505/2024-1-Beginner-Study/pull/2>
+
